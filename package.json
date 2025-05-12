@@ -63,7 +63,7 @@
     "graphql-tag": "^2.11.0",
     "lodash-es": "^4.17.20",
     "luxon": "3.0.1",
-    "mathjs": "^9.4.4",
+    "mathjs": "^14.4.0",
     "ng-animate": "^1.0.0",
     "ng-dynamic-component": "8.0.1-no-barrels.1",
     "ngx-chips": "^2.2.2",
