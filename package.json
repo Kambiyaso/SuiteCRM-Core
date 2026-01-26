@@ -61,7 +61,7 @@
     "core-js": "^3.8.3",
     "graphql": "^14.7.0",
     "graphql-tag": "^2.11.0",
-    "lodash-es": "^4.17.20",
+    "lodash-es": "^4.17.23",
     "luxon": "3.0.1",
     "mathjs": "^9.4.4",
     "ng-animate": "^1.0.0",
